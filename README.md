@@ -35,6 +35,5 @@ Screen1 - [Image loading without Third Party]
 Screen2 - [Image loading with Third Party]
 
 ![img_2.png](img_2.png)
-(img_1.png)
+![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/552c6d46-6e6c-4edf-8bd0-69e5ad5429b4)
 ![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/52368e89-971d-4431-aa94-db6eacbcc766)
-
