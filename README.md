@@ -26,9 +26,5 @@ Note : Here, covering all above point and create small app to loading image with
 - Using Retrofit though get the record
 - Using Jetpack Compose
 
-
-
-
-
-
-
+![img.png](img.png) ithub.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/c75fcf2d-a337-4151-954c-d79464cc4cf9) ![img_1.png](img_1.png)
+![img_2.png](img_2.png)
