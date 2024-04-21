@@ -26,5 +26,14 @@ Note : Here, covering all above point and create small app to loading image with
 - Using Retrofit though get the record
 - Using Jetpack Compose
 
-![img.png](img.png) ithub.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/c75fcf2d-a337-4151-954c-d79464cc4cf9) ![img_1.png](img_1.png)
+Flow of the App
+
+SplashScreen
+MainScreen - [Navigation purpose]
+HomeScreen - [Two Way - 1. Without Thirdparty 2. With Thirdparty]
+Screen1 - [Image loading without Third Party]
+Screen2 - [Image loading with Third Party]
+
 ![img_2.png](img_2.png)
+(img_1.png)
+![img.png](img.png) ithub.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/c75fcf2d-a337-4151-954c-d79464cc4cf9) ![img_1.png]
