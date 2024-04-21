@@ -23,4 +23,16 @@ Note : Here, covering all above point and create small app to loading image with
 
 
 2. With Thirpary Using Coill
-- Extra.
+- Using Retrofit though get the record
+- Using Jetpack Compose
+
+![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/667be033-64ea-4b4c-8150-319133a369aa)
+![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/a8a4a980-2534-43b0-97ba-210ac53d8fcb)
+![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/c75fcf2d-a337-4151-954c-d79464cc4cf9)
+![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/5f9a1f19-19ab-48f2-995f-9a9b074c2520)
+![image](https://github.com/jahanavi1/Android_Assignment_PrashantAdvait_Foundation/assets/29141891/44ad3a43-585a-4672-a862-550310a44144)
+
+
+
+
+
